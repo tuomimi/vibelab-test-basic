@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VibeLab Basic</string>
+    <string name="hello_title">VibeLab 提交链路测试</string>
+    <string name="hello_info">基线工程：无第三方依赖，仅验证 commit 锁定构建</string>
+</resources>
